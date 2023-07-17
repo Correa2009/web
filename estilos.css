@@ -11,20 +11,72 @@
     
     body{
     
-    background-image: url("flowers-gd0761df63_1280.jpg");
+    background-image: url("nubes.jpg");
     
     background-repeat: no-repeat;
-    
+    background-size: cover;
     }
     
-    .fondotecnologia{
+    .fondoingles2{
     
-        background-image: url("Atardeceres.jpg");
+        background-image: url("Estatua.jfif");
         
         background-repeat: no-repeat;
+        background-size: cover;
         
         }
     
+    
+        .fondobiologia2{
+    
+            background-image: url("baloncesto.jfif");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+
+        }
+
+        .fondomatematicas2{
+    
+            background-image: url("Cielo.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            }
+        
+            .fondosociales2{
+    
+                background-image: url("carros.jpg");
+                
+                background-repeat: no-repeat;
+                background-size: cover;
+                
+                }
+
+  .fondotecnologia2{
+    
+                background-image: url("azul.jpeg");
+                
+                background-repeat: no-repeat;
+                background-size: cover;
+                
+                }
+
+
+                
+                .fondorelijion2{
+    
+                    background-image: url("mariposa.jpg");
+                    
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    
+                    }
+
+
+        
+
     .img{
     
     position: relative;
@@ -49,7 +101,7 @@
     
     .contenedor{
     
-     
+     background: image();
     
     height: 230px;
     
@@ -68,29 +120,28 @@
      
     
     }
-    
 
+    .contenido{
 
-.contenido{
-
-height: 280px;
+        height: 280px;
         
-width: 100%;
+        width: 100%;
         
-position: absolute;
+        position: absolute;
         
-top: 410px;
-        
-              
-}
+        top: 410px;
         
          
         
- .imagensociales{
+        }
         
          
         
- background-repeat: no-repeat;
+        .imagensociales2{
+        
+         
+        
+        background-repeat: no-repeat;
         
         float:left;
         
@@ -102,7 +153,7 @@ top: 410px;
         
         margin-right:5px;
         
-        background-image: url("Cielo.jpg");
+        background-image: url("francia.jfif");
         
         }
         
