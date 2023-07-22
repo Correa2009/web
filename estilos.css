@@ -16,7 +16,7 @@ background-size: cover;}
     
 
 .fondoingles2{
-background-image: url("Nueva-York-2.jpg");
+background-image: url("ensueño.jfif");
 background-repeat: no-repeat;
 background-size: cover;     }
     
@@ -126,7 +126,7 @@ height: 200px;
 width: 260px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("Cielo.jpg");}
+background-image: url("revolucion.jpg");}
                           
 .textosocia{
 text-align: justify;
@@ -251,8 +251,9 @@ background-repeat: no-repeat;
 float:left;
 height: 200px;
 width: 260px;
-margin-left: 5px;
-margin-right:5px;
+margin-left: 6px;
+margin-right:7px;
+background-image: url(estatua\ 5.jpg);
 }
                                                  
 .textoingles{
