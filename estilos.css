@@ -34,21 +34,12 @@ background-size: cover;}
         
 
 .fondosociales2{
-background-image: url("carros.jpg");
+background-image: url("flores.webp");
 background-repeat: no-repeat;
 background-size: cover;}
 
 
-.fondotecnologia2{
-background-image: url("palmeras.webp");
-background-repeat: no-repeat;
-background-size: cover;}
 
-
-.fondorelijion2{
-background-image: url("mariposa.jpg");
-background-repeat: no-repeat;
-background-size: cover;}
 
 
 
@@ -56,11 +47,11 @@ background-size: cover;}
 .img{
 position: relative;
 width: 190px;
-height: 190px;
+height: 400px;
 border-radius: 10px;
 background-repeat: no-repeat;
 left: 180px;
-background-image: url("medellin.jpeg");}
+background-image: url("piedras\ 55.jfif");}
     
 .contenedor{
 background: image();
@@ -80,11 +71,11 @@ top: 410px;}
 .imagentecno{
 background-repeat: no-repeat;
 float:left;
-height: 200px;
-width: 260px;
+height: 100px;
+width: 600px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("carros.jpg");}
+background-image: url("");}
      
 .textotecno{
 text-align: justify;
@@ -98,15 +89,15 @@ font-size: 20px;}
 .img{
 position: relative;
 width: 190px;
-height: 190px;
+height: 300px;
 border-radius: 10px;
 background-repeat: no-repeat;
 left: 180px;
-background-image: url("medellin.jpeg");}
+background-image: url("");}
       
 .contenedor{
 background: image();
-height: 230px;}
+height: 300px;}
 
 .texto{
 font-size: 40px;
@@ -122,15 +113,15 @@ top: 410px;}
 .imagensocia{
 background-repeat: no-repeat;
 float:left;
-height: 200px;
+height: 300px;
 width: 260px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("revolucion.jpg");}
+background-image: url("");}
                           
 .textosocia{
 text-align: justify;
-color: azure;
+color: rgb(0, 0, 0);
 font-size: 20px;}
 
 
@@ -141,11 +132,11 @@ font-size: 20px;}
 .img{
 position: relative;
 width: 190px;
-height: 190px;
+height: 300px;
 border-radius: 10px;
 background-repeat: no-repeat;
 left: 180px;
-background-image: url("medellin.jpeg");}
+background-image: url("luna.webp");}
                     
 .contenedor{
 background: image();
@@ -187,7 +178,7 @@ height: 190px;
 border-radius: 10px;
 background-repeat: no-repeat;
 left: 180px;
-background-image: url("medellin.jpeg");}
+background-image: url("girasoles.jfif");}
                         
 .contenedor{
 background: image();
@@ -269,15 +260,15 @@ font-size: 22px;}
 .img{
 position: relative;
 width: 190px;
-height: 190px;
+height: 300px;
 border-radius: 10px;
 background-repeat: no-repeat;
 left: 180px;
-background-image: url("medellin.jpeg");}
+background-image: url("");}
                                     
 .contenedor{
 background: image();
-height: 230px;}
+height: 300px;}
                                 
 .texto{
 font-size: 40px;
@@ -285,7 +276,7 @@ text-align: justify;
 color: brown;}
                             
 .contenido{
-height: 280px;
+height: 200px;
 width: 100%;
 position: absolute;
 top: 410px;}
@@ -293,11 +284,61 @@ top: 410px;}
 .imagenreli{
 background-repeat: no-repeat;
 float:left;
-height: 200px;
+height: 300px;
 width: 260px;
 margin-left: 5px;
 margin-right:5px;
-background-image: url("Atardeceres.jpg");}
+background-image: url();}
+
+.contenido {
+    height: 256px;
+    width: 103%;
+    position: absolute;
+    top: 228px;
+}
+.contenido {
+    height: 280px;
+    width: 100%;
+    position: absolute;
+    top: 410px;
+}
+.contenido {
+    height: 280px;
+    width: 100%;
+    position: absolute;
+    top: 410px;
+}
+.contenido {
+    height: 280px;
+    width: 100%;
+    position: absolute;
+    top: 410px;
+}
+.contenido {
+    height: 400px;
+    width: 100%;
+    position: absolute;
+    top: 410px;
+}
+.contenido {
+    height: 1000px;
+    width: 100%;
+    position: absolute;
+    top: 410px;
+}
+* {
+    padding: 0px;
+    margin: 0px;
+}
+* {
+    padding: 0px;
+    margin: 0px;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+
                                                      
 .textoreli{
 text-align: justify;
