@@ -8,11 +8,8 @@ margin: 0px;
     
     
     
-body{
-    
-background-image: url("nubes.jpg");
-background-repeat: no-repeat;
-background-size: cover;}
+body
+
     
 
 .fondoingles2{
@@ -22,9 +19,9 @@ background-size: 50000px; }
     
     
 .fondobiologia2{
-background-image: url("baloncesto.jfif");
+background-image: url("Plantas.jpg");
 background-repeat: no-repeat;
-background-size: cover;}
+background-size: 10000px;}
 
         
 .fondomatematicas2{
@@ -40,6 +37,16 @@ background-size: cover;}
 
 
 
+.fondorelijion2{
+background-image: url("perro.jpg");
+background-repeat: no-repeat;
+background-size: 50000px; }
+
+.fondotecnologia2
+{
+    background-image: url("piedras.jpg");
+    background-repeat: no-repeat;
+    background-size: 50000px; }
 
 
 
@@ -59,7 +66,7 @@ height: 230px;}
     
 .texto{
 font-size: 40px;
-text-align: justify;
+text-align: left;
 color: brown;}
 
 .contenido{
@@ -71,14 +78,14 @@ top: 410px;}
 .imagentecno{
 background-repeat: no-repeat;
 float:left;
-height: 100px;
-width: 600px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url("");}
+height: 550px;
+width:  550px;
+margin-left: 10px;
+margin-right:10px;
+background-image: url("interruptor.png");}
      
 .textotecno{
-text-align: justify;
+text-align: left;
 color: azure;
 font-size: 20px;}
 
@@ -153,19 +160,12 @@ width: 100%;
 position: absolute;
 top: 410px;}
                         
-.imagenbiolo{
-background-repeat: no-repeat;
-float:left;
-height: 200px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url("");}
+
                                          
 .textobiolo{
-text-align: justify;
-color: azure;
-font-size: 20px;}
+text-align: left;
+color: white;
+font-size: 21px;}
                 
 
 
@@ -283,12 +283,18 @@ top: 410px;}
                                     
 .imagenreli{
 background-repeat: no-repeat;
-float:left;
+float:right;
 height: 300px;
 width: 260px;
 margin-left: 5px;
 margin-right:5px;
 background-image: url();}
+
+.textoreli{
+text-align: justify;
+color: azure;
+font-size: 20px;}
+
 
 .contenido {
     height: 256px;
