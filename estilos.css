@@ -7,10 +7,9 @@ margin: 0px;
 }
     
     
-    
-body
 
-    
+
+body
 
 .fondoingles2{
 background-image: url("Casas.jpg");
@@ -88,6 +87,8 @@ background-image: url("interruptor.png");}
 text-align: left;
 color: azure;
 font-size: 20px;}
+
+
 
 
 
@@ -249,7 +250,7 @@ background-image: url;
                                                  
 .textoingles{
 text-align: left;
-color: white;
+color: black;
 font-size: 20px;}
 
 
