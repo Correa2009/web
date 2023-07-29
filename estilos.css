@@ -12,7 +12,7 @@ margin: 0px;
 body
 
 .fondoingles2{
-background-image: url("Casas.jpg");
+background-image: url("edificios.jpg");
 background-repeat: no-repeat;
 background-size: 50000px; }
     
@@ -30,22 +30,22 @@ background-size: cover;}
         
 
 .fondosociales2{
-background-image: url("flores.webp");
+background-image: url("francesa.webp");
 background-repeat: no-repeat;
-background-size: cover;}
+background-size: 10000px;}
 
 
 
 .fondorelijion2{
-background-image: url("perro.jpg");
+background-image: url("degradado.jfif");
 background-repeat: no-repeat;
 background-size: 50000px; }
 
 .fondotecnologia2
 {
-    background-image: url("piedras.jpg");
-    background-repeat: no-repeat;
-    background-size: 50000px; }
+background-image: url("degradado.jfif");
+background-repeat: no-repeat;
+background-size: 50000px; }
 
 
 
@@ -82,7 +82,27 @@ width:  550px;
 margin-left: 10px;
 margin-right:10px;
 background-image: url("interruptor.png");}
-     
+
+
+.imagenbasica{
+background-repeat: no-repeat;
+float:left;
+height: 300px;
+width:  300px;
+margin-left: 10px;
+margin-right: 10px;
+background-image: url("movimiento\ 2.gif");}
+
+.imagenbasica2{
+background-repeat: no-repeat;
+float:left;
+height: 300px;
+width:  300px;
+margin-left: 10px;
+margin-right: 10px;
+background-image: url("diseño.gif");}
+    
+
 .textotecno{
 text-align: left;
 color: azure;
@@ -109,7 +129,7 @@ height: 300px;}
 
 .texto{
 font-size: 40px;
-text-align: justify;
+text-align: right;
 color: brown;}
 
 .contenido{
@@ -130,7 +150,7 @@ background-image: url("");}
 .textosocia{
 text-align: justify;
 color: rgb(0, 0, 0);
-font-size: 20px;}
+font-size: px;}
 
 
 
@@ -195,6 +215,11 @@ height: 280px;
 width: 100%;
 position: absolute;
 top: 410px;}
+.imagebasica{
+background-image: url("luna.webp");
+height: 200px;
+width: 300px;
+}
                             
 .imagenmate{
 background-repeat: no-repeat;
@@ -245,7 +270,7 @@ height: 200px;
 width: 260px;
 margin-left: 6px;
 margin-right:7px;
-background-image: url;
+background-image: url()
 }
                                                  
 .textoingles{
