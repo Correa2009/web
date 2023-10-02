@@ -1,100 +1,92 @@
 .contenedor{
-width: 100%;
-height: 1200px;
-background-color: rgb(165, 76, 162);
-
+    width: 100%;
+    height: 1400px;
+background-color: rgb(255, 255, 255);
 }
-
 .encabezado{
 width: 100%;
 height: 150px;
-background-color: rgb(255, 0, 221);
+background-color: #517470;
 font-size: 45px;
 text-align: center;
-color: black;
-font-family: Georgia, 'Times New Roman', Times, serif;
-    
+color: white;
+font-family: cursive;
 }
 .menu{
 width: 100%;
 height: 80px;
-background-color: magenta;
+background-color: #bdcfc9;
+display:flex;
+}
+.inicio{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+
+.sociales{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+.ingles{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+.biologia{
+width: 80px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+.matematicas{
+width: 100px;
+height: 75px;
+background-color: #8d9e6f;
+margin: 2px;
+font-size: 20px;
+}
+
+.contenedor2{
+width: 100%;
+height: 1300px;
+background-color: rgb(106, 29, 179);
+
 display: flex;
-
 }
-.Inicio{
-width: 100px;
-height: 75px;
-background-color: orchid;
-margin: 2px;
-
-}
-.Sociales{
-width: 100px;
-height: 120px;
-background-color: orchid;
-margin: 2px;
-}
-
-.Ingles{ 
-width: 100px;
-height: 75px;
-background-color: orchid;
-margin: 2px;
-
-}
-.Biologia{
-width: 100px;
-height: 75px;
-background-color: orchid;
-margin: 2px;
-
-}
-.Matematicas{
-width: 100px;
-height: 75px;
-background-color: orchid;
-margin: 2px;
-
-}
-
-
 .izquierda{
-width: 0%;
-height: 80px;
-font-size: 100px;
-background-color: maroon;
-color: #000;
-text-align: center;
-background-repeat: no-repeat;
-   
+width: 25%;
+height: 2600px;
+background-color: rgb(56, 21, 88);
+background-image: url("letras.jfif");
+background-image: url("descarga\ \(1\).jfif");
 }
 .centro{
-width: 85%;
-height: 2500px;
-background-color: darkolivegreen;
-font-size: 17px;
+width: 55%;
+height: 2600px;
+background-color: rgb(98, 73, 121);
+font-size: 15px;
+background-color: #7E998D;
+font-family: Georgia, 'Times New Roman', Times, serif;
 text-align: left;
-color: rgb(255, 255, 255);
-font-family: Arial, Helvetica, sans-serif;
-background-image: url(Leopardo.jpg);
-
 }
 
 .derecha{
-width: 80%;
-height: 1000px;
-font-size: 17px;
+width: 25%;
+height: 2600px;
+background-color: blueviolet;
+font-size: 35px;
 text-align: center;
-font-family: Arial, Helvetica, sans-serif;
-color: #000;
-
-
-
+color: rgb(255, 255, 255);
+font-family: cursive;
+background-image: url("letras.jfif");
+background-image: url("descarga\ \(1\).jfif");
 }
-
-
-
-
-    
-    

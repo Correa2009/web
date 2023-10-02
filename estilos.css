@@ -1,389 +1,259 @@
 *{
 
-padding: 0px;
-    
-margin: 0px;
-    
+ padding: 0px;
+ margin: 0px;
 }
     
-    
-
-
-body
-
-.fondoingles2{
-background-image: url("edificios.jpg");
+body{
+background-image: url("books-g84259ff87_1280.jpg");
 background-repeat: no-repeat;
-background-size: 50000px; }
+background-size: cover;
+}
     
+.fondoingles2{
+background-image: url("estatua2.jpeg");
+background-repeat: no-repeat;
+background-size: 2000px ;
+}
     
 .fondobiologia2{
-background-image: url("Plantas.jpg");
+background-image: url("oceano.jpeg");
 background-repeat: no-repeat;
-background-size: 10000px;}
+background-size: 3000px;
+}
 
-        
 .fondomatematicas2{
-background-image: url("Cielo.jpg");
+background-image: url("muchachas.jpeg");
 background-repeat: no-repeat;
-background-size: cover;}
+background-size: 1500px;
+}
         
-
 .fondosociales2{
-background-image: url("francesa.webp");
+background-image: url("nocheestrellada.jpeg");
 background-repeat: no-repeat;
-background-size: 10000px;}
+background-size: cover;
+}
 
-
+.fondotecnologia2{
+background-image: url("galaxia.jpeg");
+background-repeat: no-repeat;
+background-size: cover;
+}
 
 .fondorelijion2{
-background-image: url("degradado.jfif");
+background-image: url("diosito.jpeg");
 background-repeat: no-repeat;
-background-size: 50000px; }
-
-.fondotecnologia2
-{
-background-image: url("degradado.jfif");
-background-repeat: no-repeat;
-background-size: 50000px; }
-
-
-
-
+background-size: cover;
+}
+   
+                    
+                    
 .img{
 position: relative;
 width: 190px;
-height: 400px;
+height: 190px;
 border-radius: 10px;
 background-repeat: no-repeat;
 left: 180px;
-background-image: url();}
+background-image: url("medellin.jpe");
+}
     
 .contenedor{
 background: image();
-height: 230px;}
+height: 230px;
+}
     
 .texto{
 font-size: 40px;
-text-align: left;
-color: brown;}
+text-align: justify;
+color: brown;
+}
 
 .contenido{
 height: 280px;
 width: 100%;
-position: absolute;
-top: 410px;}
-
-.imagentecno{
-background-repeat: no-repeat;
-float:left;
-height: 550px;
-width:  550px;
-margin-left: 10px;
-margin-right:10px;
-background-image: url("interruptor.png");}
-
-
-.imagenbasica{
-background-repeat: no-repeat;
-float:left;
-height: 300px;
-width:  300px;
-margin-left: 10px;
-margin-right: 10px;
-background-image: url("movimiento\ 2.gif");}
-
-.imagenbasica2{
-background-repeat: no-repeat;
-float:left;
-height: 300px;
-width:  300px;
-margin-left: 10px;
-margin-right: 10px;
-background-image: url("diseño.gif");}
-    
-
-.textotecno{
-text-align: left;
-color: azure;
-font-size: 20px;}
-
-
-
-
-
-
+position: relative;
+top: 376pxx;
+}
+        
+         
 
 .img{
-position: relative;
-width: 190px;
-height: 300px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("");}
-      
-.contenedor{
-background: image();
-height: 300px;}
+    position: relative;
+    width: 190px;
+    height: 190px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    left: 180px;
+    background-image: url("");}
+        
+    .contenedor{
+    background: image();
+    height: 230px;}
+        
+    .texto{
+    font-size: 40px;
+    text-align: justify;
+    color: brown;}
+    
+    .contenido{
+    height: 280px;
+    width: 100%;
+    position: absolute;
+    top: 410px;}
+    
+    .imagentecnologia2{
+    background-repeat: no-repeat;
+    float:left;
+    height: 200px;
+    width: 260px;
+    margin-left: 5px;
+    margin-right:5px;
+    background-image: url("conmutador.jpg");}
+         
+    .imagenbasica{
+        background-repeat: no-repeat;
+        height: 200px;
+        width: 400px;
+        margin-right:100px;
+        background-image: url("electronicabasica.jfif");
+         }
 
-.texto{
-font-size: 40px;
-text-align: right;
-color: brown;}
 
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 410px;}
+    .textotecnologia2{
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    font-size: 20px;}
+
+
+
+
+    .img{
+        position: relative;
+        width: 190px;
+        height: 220px;
+        border-radius: 10px;
+        background-repeat: repeat;
+        left: 180px;
+        background-image: url("medellin.jpeg");}
+            
+        .contenedor{
+        background: image();
+        height: 1400px;}
+            
+        .texto{
+        font-size: 35px;
+        text-align: justify;
+        color: brown;}
+        
+        .contenido{
+        height: 1400px;
+        width: 100%;
+        position: absolute;
+        top: 410px;}
+             
+        .textoingles{
+        text-align: justify;
+        color: azure;
+        font-size: 20px;}    
+
+
+
+        .img{
+            position: relative;
+            width: 190px;
+            height: 280px;
+            border-radius: 10px;
+            background-repeat: no-repeat;
+            left: 180px;
+                
+            .contenedor{
+            background: image();
+            height: 230px;}
+                
+            .texto{
+            font-size: 40px;
+            text-align: justify;
+            color: brown;}
+            
+            .contenido{
+            height: 280px;
+            width: 100%;
+            position: relative;
+            top: 129px;}
+            
+            .textomatematicas2{
+            text-align: left;
+            color: rgb(0, 5, 5);
+            font-size: 20px;}
+
+            .img{
+                position: relative;
+                width: 190px;
+                height: 290px;
+                border-radius: 10px;
+                background-repeat: no-repeat;
+                left: 180px;
+                background-image: url("oceano.jpeg");}
+                    
+                .contenedor{
+                background: image();
+                height: 230px;}
+                    
+                .texto{
+                font-size: 40px;
+                text-align: justify;
+                color: brown;}
+                
+                .contenido{
+                height: 280px;
+                width: 100%;
+                position: absolute;
+                top: 410px;}
+                
+                .textobiologia{
+                text-align: left;
+                color: rgb(0, 5, 5);
+                font-size: 30px;}
+
+                .img{
+                    position: relative;
+                    width: 190px;
+                    height: 190px;
+                    border-radius: 10px;
+                    background-repeat: no-repeat;
+                    left: 180px;
+                    background-image: url("");}
+                        
+                    .contenedor{
+                    background: image();
+                    height: 230px;}
+                        
+                    .texto{
+                    font-size: 40px;
+                    text-align: justify;
+                    color: brown;}
+                    
+                    .contenido{
+                    height: 280px;
+                    width: 100%;
+                    position: absolute;
+                    top: 310px;}
+                    
+                    .imagensociales2{
+                    background-repeat: no-repeat;
+                    float: left;
+                    height: 200px;
+                    width: 260px;
+                    margin-left: 5px;
+                    margin-right:5px;
+                    background-image: url("carros.jpg");}
                          
-.imagensocia{
-background-repeat: no-repeat;
-float:left;
-height: 300px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url("");}
-                          
-.textosocia{
-text-align: justify;
-color: rgb(0, 0, 0);
-font-size: px;}
-
-
-
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 300px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("");}
-                    
-.contenedor{
-background: image();
-height: 230px;}
-                    
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
-                
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 410px;}
-                        
-
-                                         
-.textobiolo{
-text-align: left;
-color: white;
-font-size: 21px;}
-                
-
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("");}
-                        
-.contenedor{
-background: image();
-height: 230px;}
-                        
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
-                    
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 410px;}
-.imagebasica{
-background-image: url("luna.webp");
-height: 200px;
-width: 300px;
-}
-                            
-.imagenmate{
-background-repeat: no-repeat;
-float:left;
-height: 200px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url();}
-                                             
-.textomate{
-text-align: justify;
-color: azure;
-font-size: 20px;}
-
-
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 190px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("");}
-                            
-.contenedor{
-background: image();
-height: 230px;}
-                            
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
-                        
-.contenido{
-height: 280px;
-width: 100%;
-position: absolute;
-top: 250px;}
-                                
-.imageningles{
-background-repeat: no-repeat;
-float:right;
-height: 200px;
-width: 260px;
-margin-left: 6px;
-margin-right:7px;
-background-image: url()
-}
-                                                 
-.textoingles{
-text-align: left;
-color: black;
-font-size: 20px;}
-
-
-
-
-
-
-.img{
-position: relative;
-width: 190px;
-height: 300px;
-border-radius: 10px;
-background-repeat: no-repeat;
-left: 180px;
-background-image: url("");}
-                                    
-.contenedor{
-background: image();
-height: 300px;}
-                                
-.texto{
-font-size: 40px;
-text-align: justify;
-color: brown;}
-                            
-.contenido{
-height: 200px;
-width: 100%;
-position: absolute;
-top: 410px;}
-                                    
-.imagenreli{
-background-repeat: no-repeat;
-float:right;
-height: 300px;
-width: 260px;
-margin-left: 5px;
-margin-right:5px;
-background-image: url();}
-
-.textoreli{
-text-align: justify;
-color: azure;
-font-size: 20px;}
-
-
-.contenido {
-    height: 256px;
-    width: 103%;
-    position: absolute;
-    top: 228px;
-}
-.contenido {
-    height: 280px;
-    width: 100%;
-    position: absolute;
-    top: 410px;
-}
-.contenido {
-    height: 280px;
-    width: 100%;
-    position: absolute;
-    top: 410px;
-}
-.contenido {
-    height: 280px;
-    width: 100%;
-    position: absolute;
-    top: 410px;
-}
-.contenido {
-    height: 400px;
-    width: 100%;
-    position: absolute;
-    top: 410px;
-}
-.contenido {
-    height: 1000px;
-    width: 100%;
-    position: absolute;
-    top: 410px;
-}
-* {
-    padding: 0px;
-    margin: 0px;
-}
-* {
-    padding: 0px;
-    margin: 0px;
-}
-user agent stylesheet
-div {
-    display: block;
-}
-
-                                                     
-.textoreli{
-text-align: justify;
-color: azure;
-font-size: 20px;}
-    
-
-
-
-
-
-
-
+                    .textosociales2{
+                    text-align: justify;
+                    color: rgb(255, 255, 255);
+                    font-size: 20px;
+                }
 
 
 
